@@ -7,9 +7,9 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title: 'Daniel Henriques' 
+title: 'Henrid' 
 tagline: 'Software Developer'
-description: '' 
+description: 'My name is Daniel Henriques.' 
 url: 'http://henrid.com'
 baseurl: '/'
 
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/henrid/henrid.github.io
+  repo:           https://github.com/henrid/
